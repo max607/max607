@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @max607
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... statistics and data science, arch btw
+- 🌱 I’m currently learning statistics and data science, arch btw
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me: here
 
